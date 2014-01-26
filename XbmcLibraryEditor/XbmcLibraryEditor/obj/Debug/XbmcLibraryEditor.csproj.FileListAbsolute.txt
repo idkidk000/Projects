@@ -1,0 +1,14 @@
+c:\users\root\documents\visual studio 2013\Projects\XbmcLibraryEditor\XbmcLibraryEditor\bin\Debug\XbmcLibraryEditor.exe.config
+c:\users\root\documents\visual studio 2013\Projects\XbmcLibraryEditor\XbmcLibraryEditor\bin\Debug\XbmcLibraryEditor.exe
+c:\users\root\documents\visual studio 2013\Projects\XbmcLibraryEditor\XbmcLibraryEditor\bin\Debug\XbmcLibraryEditor.pdb
+c:\users\root\documents\visual studio 2013\Projects\XbmcLibraryEditor\XbmcLibraryEditor\bin\Debug\MySql.Data.dll
+c:\users\root\documents\visual studio 2013\Projects\XbmcLibraryEditor\XbmcLibraryEditor\obj\Debug\XbmcLibraryEditor.csprojResolveAssemblyReference.cache
+c:\users\root\documents\visual studio 2013\Projects\XbmcLibraryEditor\XbmcLibraryEditor\obj\Debug\MainWindow.baml
+c:\users\root\documents\visual studio 2013\Projects\XbmcLibraryEditor\XbmcLibraryEditor\obj\Debug\MainWindow.g.cs
+c:\users\root\documents\visual studio 2013\Projects\XbmcLibraryEditor\XbmcLibraryEditor\obj\Debug\App.g.cs
+c:\users\root\documents\visual studio 2013\Projects\XbmcLibraryEditor\XbmcLibraryEditor\obj\Debug\XbmcLibraryEditor_MarkupCompile.cache
+c:\users\root\documents\visual studio 2013\Projects\XbmcLibraryEditor\XbmcLibraryEditor\obj\Debug\XbmcLibraryEditor.g.resources
+c:\users\root\documents\visual studio 2013\Projects\XbmcLibraryEditor\XbmcLibraryEditor\obj\Debug\XbmcLibraryEditor.Properties.Resources.resources
+c:\users\root\documents\visual studio 2013\Projects\XbmcLibraryEditor\XbmcLibraryEditor\obj\Debug\XbmcLibraryEditor.csproj.GenerateResource.Cache
+c:\users\root\documents\visual studio 2013\Projects\XbmcLibraryEditor\XbmcLibraryEditor\obj\Debug\XbmcLibraryEditor.exe
+c:\users\root\documents\visual studio 2013\Projects\XbmcLibraryEditor\XbmcLibraryEditor\obj\Debug\XbmcLibraryEditor.pdb
